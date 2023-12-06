@@ -45,10 +45,7 @@ Python (v3.6 or higher)
 ​
 ### Installation
 ​
-- clone the repository using the following command in your console: git clone https://github.com/mfranca95/Commodity_Comparer_3000.git
-- Get into an environment that you want to run the program in.
-- Install all the necessary libraries (list at the end of the section)
-- Inside the comparer.py file in line 24, change the "C:\Users\marco\OneDrive\Desktop\Project-1\build\assets\frame0" to "(your location)\assets\frame0", "your location" been the address in where you saved the information of the app.
+
 ​​
 Necessary dependencies:
 ​
