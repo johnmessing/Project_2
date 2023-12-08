@@ -1,11 +1,11 @@
 # Cryptocurrency Price Prediction Notebook: Unleashing the Power of Machine 
-# Price Predictor
+# Bit Profit
 ​
-The Price Predictor is a game-changer, providing users with a machine learning program that will predict future price, and analyze trends. 
+Bit Profit is a game-changer, providing users with a machine learning program that will predict future price, and analyze trends. 
 ​
 ## Table of Contents
 ​
-- [Price Predictor](#project-name)
+- [Bit Profit](#project-name)
   - [Table of Contents](#table-of-contents)
   - [About](#about)
   - [Getting Started](#getting-started)
