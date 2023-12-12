@@ -57,6 +57,8 @@ pip install yfinance
 pip install mplfinance
 pip install pytorch 
 pip install pytorch.nn
+pip install numpy
+pip install hvplot
 
 ​
 ## Usage
