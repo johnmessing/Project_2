@@ -1,5 +1,5 @@
 # Cryptocurrency Price Prediction Notebook: Unleashing the Power of Machine 
-# Bit Profit
+# Bit Profit ![Uploading image.png…]()
 ​
 Bit Profit is a game-changer, providing users with a machine learning program that will predict future price, and analyze trends. 
 ​
