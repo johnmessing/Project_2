@@ -55,6 +55,8 @@ pip install pandas
 pip install pathlib
 pip install yfinance
 pip install mplfinance
+pip install pytorch 
+pip install pytorch.nn
 
 ​
 ## Usage
