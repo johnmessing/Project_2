@@ -31,7 +31,7 @@ Visualization: Matplotlib and hvplot will be used to create informative visualiz
 
 Pandas Data Analysis: Pandas will be utilized for data cleaning, manipulation, and statistical analysis to answer research questions and provide relevant insights.
 
-API Integration: Data will be continuously updated via APIs to ensure that the tool provides real-time information for decision-making.
+
 ![image](https://github.com/johnmessing/Project_2/assets/142201551/3e9a4ccb-05d9-4aa9-902b-a0593d602e5c)
 
 
